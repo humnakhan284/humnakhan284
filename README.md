@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Humna Khan! 👋
 
-<!--
-**humnakhan284/humnakhan284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Artificial Intelligence student (7th Semester) focusing on AI and Machine Learning. I specialize in building ML pipelines and data analysis workflows, and I love turning those intelligent models into fully functional mobile and web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  About Me
+-  **Education:** Currently pursuing my Bachelor's degree in Artificial Intelligence (7th Semester).
+-  **Current Work:** Developing intelligent mobile and web solutions, including computer vision,deep learning and data analysis workflows for medical technology projects.
+-  **Core Focus:** Deep learning, data pre-processing, and building clean, production-ready architectures.
+-  **Code Style:** High emphasis on clean code, organized project hierarchies, and reproducible AI workflows.
+
+###  Tech Stack & Tools
+- **AI & Data Science:** Python, Google Colab, Kaggle API, Data Analysis & Pre-processing
+- **Languages & Simulation:** Dart, JavaScript, MATLAB (Signal Processing / LPF Design)
+- **Frameworks & Web:** Flutter, React, Node.js
+- **Cloud & Backend:** Firebase Authentication & Realtime Databases
+- **DevOps & Tools:** Git, GitHub
+
+---
+
+### 📊 My GitHub Stats
+![Humna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humnakhan284&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humnakhan284&layout=compact&theme=radical)
