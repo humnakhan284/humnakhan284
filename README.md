@@ -1,4 +1,4 @@
-# Hi there, I'm Humna Khan! 👋
+# Hi there, I'm Humna Khan! 
 
 I am a final-year Artificial Intelligence student (7th Semester) focusing on AI and Machine Learning. I specialize in building ML pipelines and data analysis workflows, and I love turning those intelligent models into fully functional mobile and web applications.
 
@@ -21,6 +21,6 @@ I am a final-year Artificial Intelligence student (7th Semester) focusing on AI 
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 ![Humna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humnakhan284&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humnakhan284&layout=compact&theme=radical)
