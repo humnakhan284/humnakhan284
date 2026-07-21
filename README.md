@@ -1,6 +1,6 @@
 # Hi there, I'm Humna Khan
 
-I am a final-year Artificial Intelligence student in my 7th semester, focusing on artificial intelligence and machine learning. I specialize in building robust machine learning pipelines, deep learning architectures, and data analysis workflows, transforming intelligent models into fully functional mobile and web applications.
+I am a final-year Artificial Intelligence student in my 8th semester, focusing on artificial intelligence and machine learning. I specialize in building robust machine learning pipelines, deep learning architectures, and data analysis workflows, transforming intelligent models into fully functional mobile and web applications.
 
 ---
 
